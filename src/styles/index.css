@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,36 +9,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-.semaforo{
-    
+.semaforo {
     background-color: black;
     padding: 10px;
-    display: inline-block;
-    
 }
-.light{
-    width: 150px;
-    height: 150px;
+
+.light {
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
-    
 }
-.red{
+
+.red {
     background: red;
-    
-    
 }
-.yellow{
+
+.yellow {
     background: yellow;
-    
-    
 }
-.green{
+
+.green {
     background: green;
-    
-    
 }
-  
-.glow{
-    background-color: white;
-    box-shadow: 0px 0px 9px 4px #747DE8;
+
+.glow {
+    box-shadow: 0px 0px 9px 4px #feffff;
 }
